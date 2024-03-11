@@ -1,4 +1,6 @@
-# Object detection model for classify image
+# FLORA - Floral Leaf Object Recognition and Advice
+
+This is the repo for the detector model
 
 ___
 
